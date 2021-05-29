@@ -48,6 +48,7 @@
     "@angular/cli": "~11.2.4",
     "@angular/compiler-cli": "~11.2.5",
     "@angular/language-service": "~11.2.5",
+    "@ctrl/tinycolor": "^3.4.0",
     "@linnenschmidt/build-ng-packagr": "^9.0.0",
     "@types/jasmine": "~3.6.0",
     "@types/jasminewd2": "~2.0.3",
